@@ -15,7 +15,7 @@ TAJ Public is the public-facing version of selected TAJ Factory notes. Each note
 
 ## Current notes
 
-- [TAJ Note 002 — Malwares intégrant des LLM à l’exécution : menace opérationnelle ou signal émergent ?](notes/TAJ-002-llm-runtime-malware.md)
+- [TAJ Note 001 — Malwares intégrant des LLM à l’exécution : menace opérationnelle ou signal émergent ?](notes/TAJ-001-llm-runtime-malware.md)
 
 ## Methodology
 

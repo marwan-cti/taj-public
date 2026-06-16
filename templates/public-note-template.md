@@ -1,51 +1,63 @@
-# TAJ Note XXX — [Title]
+# TAJ Note XXX — [Titre]
 
 **Date :** YYYY-MM-DD  
 **Auteur :** Marwan BEN SAID  
-**Thème :** [AI Security / Malware / SOC / Threat Hunting]  
+**Thème :** [Sécurité de l’IA / Malware / SOC / Threat hunting]  
 **Niveau de confiance :** [Faible / Modéré / Élevé]  
 **Sources clés :** [Source A2], [Source B3]
 
-## BLUF
+## Résumé exécutif (BLUF)
 
-[One short paragraph answering: what is happening, why it matters, what the reader should do.]
+[Paragraphe court : ce qui se passe, pourquoi c’est important, ce que le lecteur doit retenir.]
+
+## Résumé en anglais
+
+[Short English summary for non-French readers.]
 
 ## Question de renseignement
 
-[One precise intelligence question.]
+[Une question de renseignement précise.]
 
-## Key judgments
+## Jugements clés
 
-1. **[Judgment 1]** — [evidence tags].
-2. **[Judgment 2]** — [evidence tags].
-3. **[Judgment 3]** — [evidence tags].
+1. **[Jugement 1]** — [tags de preuves].
+2. **[Jugement 2]** — [tags de preuves].
+3. **[Jugement 3]** — [tags de preuves].
 
 ## Observations clés
 
-**[Observation group 1].**  
-[Fact-led paragraph with source tags.]
+**[Groupe d’observations 1].**  
+[Paragraphe factuel avec tags de sources.]
 
-**[Observation group 2].**  
-[Fact-led paragraph with source tags.]
+**[Groupe d’observations 2].**  
+[Paragraphe factuel avec tags de sources.]
 
 ## Implications défensives
 
-- [Defensive implication 1]
-- [Defensive implication 2]
-- [Defensive implication 3]
+- [Implication défensive 1]
+- [Implication défensive 2]
+- [Implication défensive 3]
 
 ## Limites
 
-[Explicitly state what the corpus does not prove.]
+[Dire explicitement ce que le corpus ne permet pas d’affirmer.]
 
 ## Jugement analytique
 
-[Short assessment using WEP: probable, possible, improbable, etc.]
+[Évaluation courte en utilisant les WEP : probable, possible, improbable, etc.]
 
 **Niveau de confiance : [x].** [Justification.]
 
+## Méthodologie et usage de l’IA
+
+Cette note a été produite dans le cadre du projet TAJ.
+
+NotebookLM a été utilisé pour organiser le corpus de sources et extraire les citations. ChatGPT a été utilisé comme aide à la structuration, à la revue critique et à l’édition rédactionnelle.
+
+Les jugements analytiques finaux, les notes de fiabilité des sources, le niveau de confiance et la formulation finale ont été relus et validés par l’auteur.
+
 ## Sources
 
-- [Source 1 title](URL)
-- [Source 2 title](URL)
-- [Source 3 title](URL)
+- [Titre source 1](URL)
+- [Titre source 2](URL)
+- [Titre source 3](URL)
